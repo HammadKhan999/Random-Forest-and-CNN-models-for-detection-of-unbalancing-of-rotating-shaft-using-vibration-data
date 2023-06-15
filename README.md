@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/jishnukoliyadan/vibration-analysis-on-rotating-s
 
 ### Confusion matrix of classification on test dataset by trained Random forest Model
 ![image](https://github.com/HammadKhan999/Random-Forest-and-CNN-models-for-detection-of-unbalancing-of-rotating-shaft-using-vibration-data/assets/72620483/baa26000-256f-4770-b5e4-4e8caa8b07aa)
-### Confusion matrix of classification of 0E dataset (0- no unbalance evaluation)
+### Confusion matrix of classification of 0E unseen dataset (0- no unbalance evaluation)
 ![image](https://github.com/HammadKhan999/Random-Forest-and-CNN-models-for-detection-of-unbalancing-of-rotating-shaft-using-vibration-data/assets/72620483/96452240-642e-46b3-aa44-b8b2f7926d68)
 
 
